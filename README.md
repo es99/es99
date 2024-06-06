@@ -9,7 +9,7 @@ __Olá!__, me chamo Engels e gostaria de me apresentar:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=es99&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=es99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=es99&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div style="display: inline_block"><br>
